@@ -1,2 +1,2 @@
-# img2img-search
+# VisualSearch 🖼️ 🔍
 Reverse Image Search Implementation for humans
