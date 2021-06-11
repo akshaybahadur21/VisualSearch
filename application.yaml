@@ -1,0 +1,24 @@
+dataset: "caltech_101"
+
+
+elasticsearch:
+  es.nodes: "localhost"
+  es.port: "9200"
+  es.index: "visual"
+  es.index_mapping_path: "resources/visual.json"
+  es.rewrite_index: False
+  es.batch_size: 1000
+  es.approx_search_size: 10
+  es.search_size: 5
+
+
+classifier:
+  train.classifier: False
+  model.path: "models/classifier.h5"
+  model.batch_size: 32
+
+pretrained:
+  model.type: "ResNet50"
+
+
+
