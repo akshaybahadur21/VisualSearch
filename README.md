@@ -1,2 +1,2 @@
 # VisualSearch 🖼️ 🔍
-Reverse Image Search Implementation for humans
+A reverse Image Search pipeline for humans
