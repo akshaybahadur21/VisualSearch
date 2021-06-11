@@ -76,7 +76,11 @@ python3 VisualSearch.py -yml application.yaml
 ```
 
 ## Results 📊
-<img src="https://github.com/akshaybahadur21/QuickDraw/blob/master/qd.gif">
+<img src="https://github.com/akshaybahadur21/VisualSearch/blob/main/resources/bike.png">
+<img src="https://github.com/akshaybahadur21/VisualSearch/blob/main/resources/plane.png">
+<img src="https://github.com/akshaybahadur21/VisualSearch/blob/main/resources/tiger.png">
+<img src="https://github.com/akshaybahadur21/VisualSearch/blob/main/resources/dolphin.png">
+<img src="https://github.com/akshaybahadur21/VisualSearch/blob/main/resources/face.png">
 
 ## References: 🔱
  
