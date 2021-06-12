@@ -2,7 +2,11 @@
 
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
-A Reverse Image Search Engine pipeline for humans
+A Hierarchical-Learning Reverse Image Search Engine pipeline for humans. 
+
+Hierarchical modules:
+- Classification
+- Transfer Learning based feature generator
 
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
