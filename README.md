@@ -21,6 +21,11 @@ Reverse image search (or as it is more technically known, instance retrieval) en
 - Feature Extraction
 - Similarity Search
 
+## Dataset 💽
+Currently, I have used the [Caltech 101 Dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/). In this dataset, we have pictures of objects belonging to 101 categories. About 40 to 800 images per category and most categories have about 50 images. However, the learnings from this can be extrapolated for domain specific datasets.
+
+## Search Engine 🕊️
+[Elasticsearch](https://www.elastic.co/) has been used as a search engine. Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Specifically, this pipeline uses [`dense_vactor`](https://www.elastic.co/guide/en/elasticsearch/reference/current/dense-vector.html) field in elasticsearch. A `dense_vector` field stores dense vectors of float values. 
 
 ## File Organization 🗄️
 
@@ -88,3 +93,4 @@ python3 VisualSearch.py -yml application.yaml
 ## References: 🔱
  
  - [Practical Deep Learning for Cloud, Mobile, and Edge by Anirudh Koul, Siddha Ganju, Meher Kasam](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/ch04.html)
+ - [Text similarity search with vector fields](https://www.elastic.co/blog/text-similarity-search-with-vectors-in-elasticsearch)
