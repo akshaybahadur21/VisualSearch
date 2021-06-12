@@ -21,7 +21,7 @@ Reverse image search (or as it is more technically known, instance retrieval) en
 - Feature Extraction
 - Similarity Search
 
-## Dataset 💽
+## Dataset 🗃️
 Currently, I have used the [Caltech 101 Dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/). In this dataset, we have pictures of objects belonging to 101 categories. About 40 to 800 images per category and most categories have about 50 images. However, the learnings from this can be extrapolated for domain specific datasets.
 
 ## Search Engine 🕊️
