@@ -11,9 +11,12 @@ You can install Conda for python which resolves all the dependencies for machine
 
 ## Description 🌈
 
-Reverse image search (or as it is more technically known, instance retrieval) enables developers and researchers to build scenarios beyond simple keyword search. From discovering visually similar objects on Pinterest to recommending similar songs on Spotify to camera-based product search on Amazon, a similar class of technology under the hood is used. Sites like TinEye alert photographers on copyright infringement when their photographs are posted without consent on the internet. Even face recognition in several security systems uses a similar concept to ascertain the identity of the person.
+Reverse image search (or as it is more technically known, instance retrieval) enables developers and researchers to build scenarios beyond simple keyword search. From discovering visually similar objects on Pinterest to recommending similar songs on Spotify to camera-based product search on Amazon, a similar class of technology under the hood is used. This is inspired by the following modules 
+- [Google Lens](https://lens.google/) 
+- [Amazon Camera Search](https://www.amazon.com/b?ie=UTF8&node=17387598011)
 
-## Modules
+
+## Modules 💫
 - Image Similarity
 - Feature Extraction
 - Similarity Search
