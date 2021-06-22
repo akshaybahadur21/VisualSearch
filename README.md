@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
-A Hierarchical-Learning Reverse Image Search Engine pipeline for humans. 
+A Hierarchical-Learning based Reverse Image Search Engine for humans. 
 
 Hierarchical modules:
 - Classification
